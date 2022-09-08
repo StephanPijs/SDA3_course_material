@@ -3,5 +3,4 @@ In this repository you can find all the needed assignments/requirements for buil
 
 Since Python starts every count from 0, I will name the folders and lessons from 0. The commit messages will be using the equivalent week as is in the schedule: So, week_0 folder means Week_1 of education and Week_5 means Week_6 of education.
 
-Modification to see if changes work on github
-Test again
+Comit worked once, test again
